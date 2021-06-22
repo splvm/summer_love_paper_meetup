@@ -4,7 +4,7 @@
 - 6/21/2021: our first *summer love paper meetup* will start on July 10th, 2021. 
 
 ## Papers to contribute
-https://docs.google.com/document/d/1Vdo5je-jpJctzs_ulOCCQy6_JCZEP4PLlN8ddJEJV9o/edit
+- Check out this [Google Docs](https://docs.google.com/document/d/1Vdo5je-jpJctzs_ulOCCQy6_JCZEP4PLlN8ddJEJV9o/edit)
 
 ## Categories
 - Absolutely classic, must-read, influential old papers (before 2010) 🍺 (e.g., Chord)
@@ -14,9 +14,15 @@ https://docs.google.com/document/d/1Vdo5je-jpJctzs_ulOCCQy6_JCZEP4PLlN8ddJEJV9o/
 (e.g. MapReduce, GFS)
 
 ## Schedule
-| Datetime/Zoom                                                                               | Category   | Paper                                                                                                                                 | Notes | Recording |
-| :------------------------------------------------------------------------------------------ | :--------- | :------------------------------------------------------------------------------------------------------------------------------------ | :---- | :-------- |
-| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | ✨Industry✨ | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | TBD   | TBD       |
+| <!--                                                                                        | Datetime/Zoom       | Category                                                                                                                              | Paper | Notes | Recording |
+| :------------------------------------------------------------------------------------------ | :------------------ | :------------------------------------------------------------------------------------------------------------------------------------ | :---- | :---- |
+| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | ✨Industry✨          | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | TBD   | TBD   | -->       |
+| head1                                                                                       | head two            | three                                                                                                                                 |
+| :-------------                                                                              | :------------------ | :------                                                                                                                               |
+| ok                                                                                          | good swedish fish   | nice                                                                                                                                  |
+| out of stock                                                                                | good and plenty     | nice                                                                                                                                  |
+| ok                                                                                          | good `oreos`        | hmm                                                                                                                                   |
+| ok                                                                                          | good `zoute` drop   | yumm                                                                                                                                  |
 
 ## Related Links
 1. [MIT 6.824 Course](http://nil.csail.mit.edu/6.824/2020/schedule.html)
