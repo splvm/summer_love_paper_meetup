@@ -14,9 +14,9 @@
 (e.g. MapReduce, GFS)
 
 ## Schedule 📆
-| Datetime/Zoom                                                                               | Category   | Paper                                                                                                                                 | Note | Recording |
+| Datetime and Zoom Link                                                                              | Category   | Paper                                                                                                                                 | Note | Recording |
 |---------------------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------|------|-----------|
-| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | ✨Industry✨ | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | TBD  | TBD       |
+| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | Industry✨ | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | TBD  | TBD       |
 |                                                                                             |            |                                                                                                                                       |      |           |
 |                                                                                             |            |                                                                                                                                       |      |           |
 
