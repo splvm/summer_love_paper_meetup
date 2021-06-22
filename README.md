@@ -14,16 +14,11 @@
 (e.g. MapReduce, GFS)
 
 ## Schedule 📆
-| Datetime/Zoom | Category   | Paper | Notes | Recording |
-| ------------ | ----------- | ---------- | ------ | ------ |
-| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | ✨Industry✨     | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | TBD   | TBD   |
-| [July 17th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | TBD | TBD | TBD  | TBD |
-| [July 24th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | TBD | TBD | TBD  | TBD |
-| [July 31th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | TBD | TBD | TBD  | TBD |
-| [Aug 7th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | TBD | TBD | TBD  | TBD |
-| [Aug 14th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | TBD | TBD | TBD  | TBD |
-| [Aug 21th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | TBD | TBD | TBD  | TBD |
-| [Aug 28th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | TBD | TBD | TBD  | TBD |
+| Datetime/Zoom                                                                               | Category   | Paper                                                                                                                                 | Note | Recording |
+|---------------------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------|------|-----------|
+| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | ✨Industry✨ | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | TBD  | TBD       |
+|                                                                                             |            |                                                                                                                                       |      |           |
+|                                                                                             |            |                                                                                                                                       |      |           |
 
 ## How paper is selected? ☕
 After each Friday, I will curate a list of papers for people to vote. The paper that gets the most vote wins and will be presented for the following week. 
