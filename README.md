@@ -13,11 +13,11 @@
 
 ### Schedule 📆
 
-| Datetime/Zoom                | Category   | Paper                                                                                                                                 | Note | Recording |
-|---------------------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------|------|-----------|
-| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | Industry✨ | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | [Paper Review Note](https://docs.google.com/document/d/11hFgwuqri7zTDrBQKFcVpmERMVMafEn5FyCpWNU4HCw/edit?usp=sharing)  | [link](https://youtu.be/JPrjtK3Eufw)       |
-|  [July 17th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09)    |            |                                                                                                                                       |      |           |
-| [July 24th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09)  |            |                                                                                                                                       |      |           |
+| Datetime/Zoom                | Category   | Paper                                                                                                                                 | Prepare | Notes | Recording |
+|---------------------------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------|------|-----|----------|
+| [July 10th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | Industry✨ | [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf) | [Paper Review Note](https://docs.google.com/document/d/11hFgwuqri7zTDrBQKFcVpmERMVMafEn5FyCpWNU4HCw/edit?usp=sharing)  | [Note](https://scarlet-message-9c2.notion.site/Meetup-1-Facebook-TAO-28e88836a3f649ba9b3e3ea83858c593) | [link](https://youtu.be/JPrjtK3Eufw)       |
+| [July 24th: 4:00pm PST](https://zoom.us/j/98807003493?pwd=YUhvZ3pUQy85MkhtZzVSaFZBL1k4dz09) | Industry✨ | [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) | [Paper Review Note](https://docs.google.com/document/d/11hFgwuqri7zTDrBQKFcVpmERMVMafEn5FyCpWNU4HCw/edit?usp=sharing)  | [Paper Review Note](https://docs.google.com/document/d/11hFgwuqri7zTDrBQKFcVpmERMVMafEn5FyCpWNU4HCw/edit?usp=sharing) | TBD  |
+
 
 ### How paper is selected? ☕
 After each Friday, I will curate a list of papers for people to vote. The paper that gets the most vote wins and will be presented for the following week. 
