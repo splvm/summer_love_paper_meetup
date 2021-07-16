@@ -1,6 +1,7 @@
 # 21' Summer 💙 Paper Meetup
 
 ### Annoucement 📢
+- 7/15/2021: our second *summer love paper meetup* will be live on July 24th, 2021. We will be reviewing the famous Dynamo paper together! Bring your questions!
 - 6/21/2021: our first *summer love paper meetup* will start on July 10th, 2021. 
 
 ### Papers to contribute 🥂
