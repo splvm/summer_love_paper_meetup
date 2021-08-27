@@ -4,6 +4,7 @@
 - 8/2/2021: our third *summer love paper meetup* will be live on Aug 7th, 2021. We will be reviewing the [Kafka](https://s3.amazonaws.com/systemsandpapers/papers/Kafka.pdf) paper together! Bring your questions!
 - 7/15/2021: our second *summer love paper meetup* will be live on July 24th, 2021. We will be reviewing the famous Dynamo paper together! Bring your questions!
 - 6/21/2021: our first *summer love paper meetup* will start on July 10th, 2021. 
+- 8/27/2021: The 21' Summer 💙 Paper Meetup is offcially ended! Thanks for anyone joining us. Please join our System Meetup phase 2: Databse on late september if you are interested in learning the fundamentals about database management system! More info to come on early september.  
 
 ### Papers to contribute 🥂
 - Check out this [Google Docs](https://docs.google.com/document/d/1Vdo5je-jpJctzs_ulOCCQy6_JCZEP4PLlN8ddJEJV9o/edit)
@@ -12,6 +13,12 @@
 - Absolutely classic, must-read, influential old papers (before 2010) 🍺 (e.g., Chord)
 - Bleeding-edge, futuristic, greatest-hit papers (after 2010) 😎 (e.g., Raft)
 - Super Large-scale, deployed, industry papers ✨(e.g. MapReduce, GFS)
+
+### Important Links 🔗
+- Note: https://scarlet-message-9c2.notion.site/dab1af63f1324125a7928cc516d12196?v=831cbec21279448c9032d9c96fc3ea12
+- YouTube recordings: https://youtube.com/playlist?list=PL1voNxn5MODOuX4u1wdGyqWuzosm85PGd
+- Microsoft System Meetup phase 1: https://github.com/Microsoft-Distributed-System-Meetup/home
+
 
 ### Schedule 📆
 
