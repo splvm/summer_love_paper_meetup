@@ -15,9 +15,9 @@
 - Super Large-scale, deployed, industry papers ✨(e.g. MapReduce, GFS)
 
 ### Important Links 🔗
-- Note: https://scarlet-message-9c2.notion.site/dab1af63f1324125a7928cc516d12196?v=831cbec21279448c9032d9c96fc3ea12
-- YouTube recordings: https://youtube.com/playlist?list=PL1voNxn5MODOuX4u1wdGyqWuzosm85PGd
-- Microsoft System Meetup phase 1: https://github.com/Microsoft-Distributed-System-Meetup/home
+- [Note](https://scarlet-message-9c2.notion.site/dab1af63f1324125a7928cc516d12196?v=831cbec21279448c9032d9c96fc3ea12) 
+- [YouTube recordings](https://youtube.com/playlist?list=PL1voNxn5MODOuX4u1wdGyqWuzosm85PGd)
+- [Microsoft System Meetup phase 1](https://github.com/Microsoft-Distributed-System-Meetup/home)
 
 
 ### Schedule 📆
